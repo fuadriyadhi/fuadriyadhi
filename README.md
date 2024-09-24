@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fuadriyadhi
 - 👀 I’m interested in Web Dev, especially frond end dev
-- 🌱 I’m currently learning vannilla js, React, Vite, tailwind
+- 🌱 I’m currently learning vannilla js, React, Vite, tailwind, Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
